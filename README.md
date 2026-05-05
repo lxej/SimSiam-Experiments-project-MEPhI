@@ -1,5 +1,4 @@
 # SimSiam-Experiments-project-MEPhI
-# SimSiam: Демонстрация проблемы коллапса в сиамских сетях
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1criS6Ye5Mahy6mBCcTc2U_3u0qpLQSEE?usp=sharing)
 
